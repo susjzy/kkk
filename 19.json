@@ -19,6 +19,7 @@
             "changeable": 0,
             "ext": "https://raw.githubusercontent.com/susjzy/kkk/main/alist.json"
         },
+        {"key":"Xojav","name":"🔞XOJav🚀","type":3,"api":"csp_Xojav","jar": "https://raw.githubusercontent.com/susjzy/kkk/main/pg.jar","searchable":0,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"null$$$proxy"},
         { "key": "404",
             "name": "404",
             "type": 3,
