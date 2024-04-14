@@ -8,7 +8,7 @@
             "api": "csp_WexPandalivetv",
             "searchable": 0,
             "changeable": 0,
-            "jar": "https://d.kstore.space/download/6641/b/jar/牛二.jar"
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/%E7%89%9B%E4%BA%8C.jar"
         },
         {
             "key": "AList",
@@ -102,7 +102,7 @@
             "key": "py_黑料②",
             "name": "黑料网(py)蜂蜜版",
             "type": 3,
-            "api": "./黑料.py",
+            "api": "https://raw.githubusercontent.com/susjzy/kkk/main/%E9%BB%91%E6%96%99.py",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
@@ -254,7 +254,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/天天直播.json",
+            "ext": "https://raw.githubusercontent.com/susjzy/kkk/main/%E5%A4%A9%E5%A4%A9%E7%9B%B4%E6%92%AD.json",
             "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/xbpq%E6%96%B0%E7%89%88.jar"
         },
         {
@@ -266,7 +266,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/天天综合.json",
+            "ext": "https://raw.githubusercontent.com/susjzy/kkk/main/%E5%A4%A9%E5%A4%A9%E7%BB%BC%E5%90%88.json",
             "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/xbpq%E6%96%B0%E7%89%88.jar"
         },
         {
@@ -278,7 +278,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/天天中文字幕.json",
+            "ext": "https://raw.githubusercontent.com/susjzy/kkk/main/%E5%A4%A9%E5%A4%A9%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95.json",
             "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/xbpq%E6%96%B0%E7%89%88.jar"
         },
         {
@@ -290,7 +290,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/天天超清资源.json",
+            "ext": "https://raw.githubusercontent.com/susjzy/kkk/main/%E5%A4%A9%E5%A4%A9%E8%B6%85%E6%B8%85%E8%B5%84%E6%BA%90.json",
             "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/xbpq%E6%96%B0%E7%89%88.jar"
         },
         {
@@ -302,7 +302,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/天天国产传媒.json",
+            "ext": "https://raw.githubusercontent.com/susjzy/kkk/main/%E6%96%B0%E9%A6%99%E8%95%89%E5%9B%BD%E4%BA%A7%E4%BC%A0%E5%AA%92.json",
             "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/xbpq%E6%96%B0%E7%89%88.jar"
         },
         {
@@ -314,7 +314,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/天天AV解说.json",
+            "ext": "https://raw.githubusercontent.com/susjzy/kkk/main/%E5%A4%A9%E5%A4%A9AV%E8%A7%A3%E8%AF%B4.json",
             "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/xbpq%E6%96%B0%E7%89%88.jar"
         },
         {
@@ -451,7 +451,7 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1"
+            "ext": "http://127.0.0.1:9978/file//tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1"
         },
         {
             "key": "BtSearch",
@@ -502,22 +502,22 @@
             "key": "ss直播",
             "name": "🔞ss直播",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "https://raw.githubusercontent.com/susjzy/kkk/main/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/ss直播.js"
+            "ext": "https://raw.githubusercontent.com/susjzy/kkk/main/ss%E7%9B%B4%E6%92%AD.js"
         },
         {
             "key": "csp_xBPQ_女优",
             "name": "女优",
             "type": 3,
             "api": "csp_xBPQ",
-            "jar": "./js/jKoN.js",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/jKoN.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./json/NQxf.json"
+            "ext": "https://raw.githubusercontent.com/susjzy/kkk/main/NQxf.json"
         },
         {
             "key": "AV_Netflav",
@@ -534,6 +534,7 @@
             "name": "泥巴",
             "type": 3,
             "api": "csp_NiNi",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/pg.jar",
             "searchable": 1,
             "ext": "1"
         },
@@ -545,7 +546,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/xc0126.jar"
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/xc0126.jar"
         },
         {
             "key": "18av",
@@ -639,7 +640,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/色花堂.json",
+            "ext": "https://raw.githubusercontent.com/susjzy/kkk/main/%E8%89%B2%E8%8A%B1%E5%A0%82.json",
             "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/XBPQ.jar"
         },
         {
@@ -678,7 +679,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/Yoursmile2.jar",
-            "ext": "./json/新香蕉废柴网.json"
+            "ext": "https://raw.githubusercontent.com/susjzy/kkk/main/%E6%96%B0%E9%A6%99%E8%95%89%E5%BA%9F%E6%9F%B4%E7%BD%91.json"
         },
         {
             "key": "csp_xBPQ_香蕉资源",
@@ -689,7 +690,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/Yoursmile2.jar",
-            "ext": "./json/香蕉资源.json"
+            "ext": "https://raw.githubusercontent.com/susjzy/kkk/main/%E9%A6%99%E8%95%89%E8%B5%84%E6%BA%90.json"
         },
         {
             "key": "csp_xBPQ_香蕉超清",
@@ -700,7 +701,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/Yoursmile2.jar",
-            "ext": "./json/新香蕉超清资源.json"
+            "ext": "https://raw.githubusercontent.com/susjzy/kkk/main/%E6%96%B0%E9%A6%99%E8%95%89%E8%B6%85%E6%B8%85%E8%B5%84%E6%BA%90.json"
         },
         {
             "key": "csp_xBPQ_香蕉国产",
@@ -711,7 +712,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/Yoursmile2.jar",
-            "ext": "./json/新香蕉国产传媒.json"
+            "ext": "https://raw.githubusercontent.com/susjzy/kkk/main/%E6%96%B0%E9%A6%99%E8%95%89%E5%9B%BD%E4%BA%A7%E4%BC%A0%E5%AA%92.json"
         },
         {
             "key": "csp_xBPQ_香蕉久久热",
@@ -722,7 +723,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/Yoursmile2.jar",
-            "ext": "./json/新香蕉久久热.json"
+            "ext": "https://raw.githubusercontent.com/susjzy/kkk/main/%E6%96%B0%E9%A6%99%E8%95%89%E4%B9%85%E4%B9%85%E7%83%AD.json"
         },
         {
             "key": "apilj.com",
