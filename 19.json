@@ -1,5 +1,5 @@
 {
-    "spider": "https://d.kstore.space/download/6641/b/k.jar",
+    "spider": "https://raw.githubusercontent.com/susjzy/kkk/main/18.jar",
     "sites": [
         {
             "key": "Pandalivetv",
@@ -17,7 +17,7 @@
             "api": "csp_AList",
             "searchable": 1,
             "changeable": 0,
-            "ext": "https://d.kstore.space/download/6641/b/json/alist.json"
+            "ext": "https://raw.githubusercontent.com/susjzy/kkk/main/alist.json"
         },
         { "key": "404",
             "name": "404",
@@ -26,7 +26,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://d.kstore.space/download/6641/b/jar/XBPQ.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/XBPQ.jar",
             "api": "csp_XBPQ",
             "ext":{
             "数组":"<div&&</div>",
@@ -42,7 +42,7 @@
             "key": "小草",
             "name": "小草电影",
             "type": 3,
-            "jar": "https://d.kstore.space/download/6641/b/jar/XBPQ.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/XBPQ.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "直接播放": "1",
@@ -60,11 +60,11 @@
             "name": "🔞黄色仓库",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://d.kstore.space/download/6641/b/jar/XBPQ.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://d.kstore.space/download/6641/b/json/黄色仓库.json"
+            "ext": "https://raw.githubusercontent.com/susjzy/kkk/main/%E9%BB%84%E8%89%B2%E4%BB%93%E5%BA%93.json"
         },
         {
             "key": "youshou",
@@ -75,7 +75,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-            "jar": "https://d.kstore.space/download/6641/b/jar/XBPQ.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/XBPQ.jar",
             "ext": {
                 "分类": "日韩爽片$1#国产精选$2#传媒合集$5#欧美激情$3#网爆吃瓜$26",
                 "分类url": "https://ysys438.xyz/vodshow/{cateId}--{year}------{catePg}---{by}.html"
@@ -89,7 +89,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://d.kstore.space/download/6641/b/jar/XBPQ.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/XBPQ.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "直接播放": "1",
@@ -113,7 +113,7 @@
             "name": "光棍影院(H)",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://d.kstore.space/download/6641/b/jar/XBPQ.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/XBPQ.jar",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -141,7 +141,7 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
-            "jar": "https://d.kstore.space/download/6641/b/jar/XBPQ.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -164,7 +164,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-            "jar": "https://d.kstore.space/download/6641/b/jar/XBPQ.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/XBPQ.jar",
             "ext": {
                 "简介": "content=\"&&\" />",
                 "播放链接前缀": "https://luw666.ink/index.php/vodplay",
@@ -185,7 +185,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-            "jar": "https://d.kstore.space/download/6641/b/jar/XBPQ.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/XBPQ.jar",
             "ext": {
                 "主页url": "https://kb17.oneoneno8cd345.xyz/one",
                 "首页": "400",
@@ -212,7 +212,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://d.kstore.space/download/6641/b/jar/XBPQ.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/XBPQ.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "直接播放": "1",
@@ -230,7 +230,7 @@
             "name": "top888|fq",
             "type": 3,
             "api": "csp_Top888",
-            "jar": "https://d.kstore.space/download/6641/b/jar/1pg.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/1pg.jar",
             "ext": "0$$$null"
         },
         {
@@ -238,7 +238,7 @@
             "name": "CableAV",
             "type": 3,
             "api": "csp_Cable",
-            "jar": "https://d.kstore.space/download/6641/b/jar/pg.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -255,7 +255,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/天天直播.json",
-            "jar": "https://d.kstore.space/download/6641/b/jar/xbpq新版.jar"
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/xbpq%E6%96%B0%E7%89%88.jar"
         },
         {
             "key": "天天综合",
@@ -267,7 +267,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/天天综合.json",
-            "jar": "https://d.kstore.space/download/6641/b/jar/xbpq新版.jar"
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/xbpq%E6%96%B0%E7%89%88.jar"
         },
         {
             "key": "天天中字",
@@ -279,7 +279,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/天天中文字幕.json",
-            "jar": "https://d.kstore.space/download/6641/b/jar/xbpq新版.jar"
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/xbpq%E6%96%B0%E7%89%88.jar"
         },
         {
             "key": "天天超清",
@@ -291,7 +291,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/天天超清资源.json",
-            "jar": "https://d.kstore.space/download/6641/b/jar/xbpq新版.jar"
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/xbpq%E6%96%B0%E7%89%88.jar"
         },
         {
             "key": " 天天传媒",
@@ -303,7 +303,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/天天国产传媒.json",
-            "jar": "https://d.kstore.space/download/6641/b/jar/xbpq新版.jar"
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/xbpq%E6%96%B0%E7%89%88.jar"
         },
         {
             "key": "AV解说",
@@ -315,14 +315,14 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/天天AV解说.json",
-            "jar": "https://d.kstore.space/download/6641/b/jar/xbpq新版.jar"
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/xbpq%E6%96%B0%E7%89%88.jar"
         },
         {
             "key": "csp_JavBus",
             "name": "🚒JavBus",
             "type": 3,
             "api": "csp_JavBus",
-            "jar": "https://d.kstore.space/download/6641/b/jar/pg.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -339,7 +339,7 @@
             "name": "🚒JavDb",
             "type": 3,
             "api": "csp_JavDb",
-            "jar": "https://d.kstore.space/download/6641/b/jar/pg.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -361,14 +361,14 @@
             "type": 3,
             "api": "csp_Eighteen",
             "searchable": 1,
-            "jar": "https://d.kstore.space/download/6641/b/jar/123.jar"
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/123.jar"
         },
         {
             "key": "csp_AvTime",
             "name": "🔞AvTime",
             "type": 3,
             "api": "csp_AvTime",
-            "jar": "https://d.kstore.space/download/6641/b/jar/pg.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/pg.jar",
             "searchable": 1,
             "changeable": 0
         },
@@ -377,7 +377,7 @@
             "name": "最色",
             "type": 3,
             "api": "csp_Zuise",
-            "jar": "https://d.kstore.space/download/6641/b/jar/pg.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/pg.jar",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -389,7 +389,7 @@
             "name": "🔞Gxqvlj",
             "type": 3,
             "api": "csp_Gxqvlj",
-            "jar": "https://d.kstore.space/download/6641/b/jar/pg.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/pg.jar",
             "searchable": 1,
             "changeable": 0
         },
@@ -418,7 +418,7 @@
                 "分类标题": ">&&</a>",
                 "分类ID": "/t/&&/"
             },
-            "jar": "https://d.kstore.space/download/6641/b/jar/xyqxbpq.jar"
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/xyqxbpq.jar"
         },
         {
             "key": "csp_黄瓜TV",
@@ -441,7 +441,7 @@
                 "链接后缀": "",
                 "跳转播放链接": "<source src=\"&&\""
             },
-            "jar": "https://d.kstore.space/download/6641/b/jar/xyqxbpq.jar"
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/xyqxbpq.jar"
         },
         {
             "key": "clg",
@@ -458,22 +458,22 @@
             "name": "BT搜索 | 💠",
             "type": 3,
             "api": "csp_BtSearch",
-            "jar": "https://d.kstore.space/download/6641/b/jar/pg.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/pg.jar",
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$null$$$null$$$1"
+            "ext": "http://127.0.0.1:9978/file//tokenm.json$$$null$$$null$$$1"
         },
         {
             "key": "BtSow",
             "name": "BTSow | 💠",
             "type": 3,
             "api": "csp_BtSow",
-            "jar": "https://d.kstore.space/download/6641/b/jar/pg.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/pg.jar",
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$null$$$null$$$1"
+            "ext": "http://127.0.0.1:9978/file/tokenm.json$$$null$$$null$$$1"
         },
         {
             "key": "csp_黄瓜TV",
@@ -483,7 +483,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://d.kstore.space/download/6641/b/jar/XBPQ.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/XBPQ.jar",
             "ext": {
                 "请求头": "手机",
                 "直接播放": "1",
@@ -524,7 +524,7 @@
             "name": "🔞Netflav",
             "type": 3,
             "api": "csp_Netflav",
-            "jar": "https://d.kstore.space/download/6641/b/jar/pg.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/pg.jar",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -552,7 +552,7 @@
             "name": "😚18AV",
             "type": 3,
             "api": "csp_Eighteen",
-            "jar": "https://d.kstore.space/download/6641/b/jar/pg.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/pg.jar",
             "timeout": 60,
             "searchable": 0,
             "changeable": 0
@@ -562,7 +562,7 @@
             "name": "😚MissAV",
             "type": 3,
             "api": "csp_Miss",
-            "jar": "https://d.kstore.space/download/6641/b/jar/pg.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/pg.jar",
             "searchable": 0,
             "changeable": 0
         },
@@ -571,7 +571,7 @@
             "name": "😚Jable",
             "type": 3,
             "api": "csp_Jable",
-            "jar": "https://d.kstore.space/download/6641/b/jar/pg.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/pg.jar",
             "searchable": 0,
             "changeable": 0
         },
@@ -580,7 +580,7 @@
             "name": "😚JavDb",
             "type": 3,
             "api": "csp_JavDb",
-            "jar": "https://d.kstore.space/download/6641/b/jar/pg.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/pg.jar",
             "searchable": 0,
             "changeable": 0
         },
@@ -589,7 +589,7 @@
             "name": "😚JavBus",
             "type": 3,
             "api": "csp_JavBus",
-            "jar": "https://d.kstore.space/download/6641/b/jar/pg.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/pg.jar",
             "searchable": 0,
             "changeable": 0
         },
@@ -598,7 +598,7 @@
             "name": "😚Netflav",
             "type": 3,
             "api": "csp_Netflav",
-            "jar": "https://d.kstore.space/download/6641/b/jar/pg.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/pg.jar",
             "searchable": 0,
             "changeable": 0
         },
@@ -607,7 +607,7 @@
             "name": "🔞桃花族",
             "type": 3,
             "api": "csp_Taohuazu",
-            "jar": "https://d.kstore.space/download/6641/b/jar/pg.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -619,7 +619,7 @@
             "name": "XOJav",
             "type": 3,
             "api": "csp_Xojav",
-            "jar": "https://d.kstore.space/download/6641/b/jar/pg.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -640,13 +640,14 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/色花堂.json",
-            "jar": "https://d.kstore.space/download/6641/b/jar/XBPQ.jar"
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/XBPQ.jar"
         },
         {
             "key": "SeHuaTang",
             "name": "色花堂|网盘",
             "type": 3,
             "api": "csp_SeHuaTang",
+         "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -663,7 +664,7 @@
             "name": "18AV〔SP〕",
             "type": 3,
             "api": "csp_Eighteen",
-            "jar": "https://d.kstore.space/download/6641/b/jar/pg.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -676,7 +677,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "https://d.kstore.space/download/6641/b/jar/Yoursmile2.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/Yoursmile2.jar",
             "ext": "./json/新香蕉废柴网.json"
         },
         {
@@ -687,7 +688,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "https://d.kstore.space/download/6641/b/jar/Yoursmile2.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/Yoursmile2.jar",
             "ext": "./json/香蕉资源.json"
         },
         {
@@ -698,7 +699,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "https://d.kstore.space/download/6641/b/jar/Yoursmile2.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/Yoursmile2.jar",
             "ext": "./json/新香蕉超清资源.json"
         },
         {
@@ -709,7 +710,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "https://d.kstore.space/download/6641/b/jar/Yoursmile2.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/Yoursmile2.jar",
             "ext": "./json/新香蕉国产传媒.json"
         },
         {
@@ -720,7 +721,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "https://d.kstore.space/download/6641/b/jar/Yoursmile2.jar",
+            "jar": "https://raw.githubusercontent.com/susjzy/kkk/main/Yoursmile2.jar",
             "ext": "./json/新香蕉久久热.json"
         },
         {
@@ -1048,7 +1049,7 @@
             "key": "甜蜜资源",
             "name": "甜蜜资源",
             "type": 1,
-            "api": "ttps://timizy10.cc/api.php/provide/vod/from/timim3u8",
+            "api": "https://timizy10.cc/api.php/provide/vod/from/timim3u8",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
