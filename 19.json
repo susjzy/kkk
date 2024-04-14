@@ -102,7 +102,7 @@
             "key": "py_黑料②",
             "name": "黑料网(py)蜂蜜版",
             "type": 3,
-            "api": "./jar/黑料.py",
+            "api": "./黑料.py",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
